@@ -1,0 +1,7 @@
+{
+  "name": "Intelligent Appliance Support",
+  "description": "A real-time voice customer service agent for home appliances using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
